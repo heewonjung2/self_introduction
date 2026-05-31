@@ -29,7 +29,7 @@
                     SNS:
                     <ol>
                         <li>
-                            <a href="https://www.instagram.com/jungheewonyy/" target="_blank" title="@jungheewonyy">정희원의 인스타그램</a>
+                            <a href="https://www.instagram.com/he2.w.wikki/" target="_blank" title="@jungheewonyy">정희원의 인스타그램</a>
                          </li>
                          <li>
                             <a href="https://blog.naver.com/heewonjung2" target="_blank" title="heewonjung2's blog">정희원의 블로그</a>
